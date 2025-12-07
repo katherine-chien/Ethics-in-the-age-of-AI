@@ -14,3 +14,16 @@ Encryption technologies, such as those used in Telegram, provide security and pr
 These examples highlight how technology can be both a tool for good and a weapon for harm when ethical considerations are neglected. They emphasize the importance of robust ethical frameworks to regulate AI and its applications. Without these frameworks, technology's potential for exploitation and harm becomes too great.On the positive side, AI has also been used to support individuals emotionally. "Death tech" is an emerging field where AI enables people to interact with digital replicas of deceased loved ones. Platforms like Settld and companies like DeepBrain use AI to mimic the voices, expressions, and personalities of the deceased, providing comfort to grieving family members. While this application of AI offers emotional support, it also raises ethical concerns. What happens when people become overly dependent on these digital replicas and are unable to move on from their grief? Is it morally responsible to create virtual personas that allow individuals to live in a world where their deceased loved ones are digitally preserved?
 
 In conclusion, AI has both ethical pros and cons, and it is up to us to ensure that technology is used for good rather than harm. The principle that "thou shalt not use a computer to harm others" must be at the core of all AI and technological developments. While AI can bring comfort, it also carries the potential for abuse, as demonstrated by cases like the Nth Room and Telegram scandals. As we continue to innovate, ethical considerations must remain central to our efforts to create a safer, more just world. Ethics, after all, is the moral compass that guides us in ensuring that technology serves humanity rather than harms it.
+
+
+
+
+Reference
+1.	侯詠晴. (2024, May 17). 「死亡科技」市場估值高達4兆！和過世家人聊天、幫忙聯絡公司. . .超強服務曝光. 風傳媒. https://www.storm.mg/lifestyle/5125157
+2.	愛范兒. (2024, September 4). 韓國 N 號房再現！大量女性被 AI 換臉，波及 500 所學校、超過 22 萬人涉案. TechNews 科技新報. https://infosecu.technews.tw/2024/09/04/s-korea-telegram-non-room-againg/
+3.	The Nth Room case and modern slavery in the digital space. (n.d.). Lowy Institute. https://www.lowyinstitute.org/the-interpreter/nth-room-case-modern-slavery-digital-space
+4.	Ortutay, B. (2024, August 28). What is Telegram, and why was CEO Pavel Durov arrested? | AP News. AP News. https://apnews.com/article/telegram-pavel-durov-arrest-2c8015c102cce23c23d55c6ca82641c5
+5.	Vokrug, A. (2023, October 26). 探讨人工智能的伦理问题. HackerNoon. https://hackernoon.com/lang/zh/%E6%8E%A2%E8%AE%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E4%BC%A6%E7%90%86%E9%97%AE%E9%A2%98
+6.	N번방 사건, 그리고 타임라인 - (1). (2020, June 29). Brunch Story. https://brunch.co.kr/@2woowhypi/47
+7.	동아사이언스. (2020, April 5). 불법 영상 콕 집어 삭제. . .AI가 ’n번방’의 눈물 닦아줄까. 동아사이언스. https://m.dongascience.com/news.php?idx=35695
+
